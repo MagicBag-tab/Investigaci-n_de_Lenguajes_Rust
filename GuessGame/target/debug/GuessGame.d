@@ -1,0 +1,1 @@
+C:\Users\sarah\Universidad\Algoritmos-y-Estructura-de-Datos\Rust-Prueba\GuessGame\target\debug\GuessGame.exe: C:\Users\sarah\Universidad\Algoritmos-y-Estructura-de-Datos\Rust-Prueba\GuessGame\src\main.rs

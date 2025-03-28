@@ -1,0 +1,1 @@
+C:\Users\sarah\Universidad\Algoritmos\ y\ Estructura\ de\ Datos\Rust-Prueba\prueba1\target\debug\prueba1.exe: C:\Users\sarah\Universidad\Algoritmos\ y\ Estructura\ de\ Datos\Rust-Prueba\prueba1\src\main.rs

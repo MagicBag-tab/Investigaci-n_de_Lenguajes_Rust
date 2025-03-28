@@ -1,0 +1,1 @@
+C:\Users\sarah\Universidad\Algoritmos-y-Estructura-de-Datos\Rust-Prueba\Notas_de_Estudiantes\target\debug\Notas_de_Estudiantes.exe: C:\Users\sarah\Universidad\Algoritmos-y-Estructura-de-Datos\Rust-Prueba\Notas_de_Estudiantes\src\main.rs
