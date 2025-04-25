@@ -10,7 +10,7 @@ cargo run -- list
 
 ## Completar una tarea
 
-cargo run -- donde IdTarea(por ejemplo 1)
+cargo run -- done IdTarea(por ejemplo 1)
 
 cargo run -- done 1
 
