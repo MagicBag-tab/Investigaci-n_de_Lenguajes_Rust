@@ -1,0 +1,6 @@
+[package]
+name = "Algoritmo_Caso_de_Uso"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
